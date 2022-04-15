@@ -14,5 +14,3 @@
 -- | Bridgeport             | 5559     |
 -- | Brighton Park          | 678      |
 -- | Burnside               | 10       |
-
-
